@@ -18,6 +18,6 @@ Ambiente de aprendizado
     Texto: Dados armazenados em registro de um único caracter (ASC II ou UNICODE);
 
   25.03
-  - Static: Apenas um único para todas as instâncias, não precisa criar uma nova (new), sempre altera a que possui o "static" - esta na tabeça da classe; 
-  - Método de instância: Cada objeto possui sua própira "cópia" dos atributos previsto na classe, consegue acessar os métodos de static;
-  - 
+- Static: Apenas um único para todas as instâncias, não precisa criar uma nova (new), sempre altera a que possui o "static" - esta na tabeça da classe;
+- Método de instância: Cada objeto possui sua própira "cópia" dos atributos previsto na classe, consegue acessar os métodos de static;
+
