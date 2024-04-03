@@ -24,3 +24,4 @@ Ambiente de aprendizado
   01.04
 - Necessidade de trabalhar com uma família de entidades que compartilham características,
   - Herança: Uma classe herda as caractersitcas de uma classe pai mais a delas, complementando a classe ("é um tipo de") - reuso de código e facilita a manutenção do código
+  - Usando "exteds" para as demais classes que vão compartilhar de atributos semelhantes
