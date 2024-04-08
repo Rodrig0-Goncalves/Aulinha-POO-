@@ -21,11 +21,12 @@ Ambiente de aprendizado
 - Static: Apenas um único para todas as instâncias, não precisa criar uma nova (new), sempre altera a que possui o "static" - esta na tabeça da classe;
 - Método de instância: Cada objeto possui sua própira "cópia" dos atributos previsto na classe, consegue acessar os métodos de static;
 
-  01.04
+  01.04 
 - Necessidade de trabalhar com uma família de entidades que compartilham características,
   - Herança: Uma classe herda as caractersitcas de uma classe pai mais a delas, complementando a classe ("é um tipo de") - reuso de código e facilita a manutenção do código
   - Usando "exteds" para as demais classes que vão compartilhar de atributos semelhantes
  
   08.04
   - "instanceOf" permite verificar se uma instância faz parte de outra
-  - Só consegue convertwer coisas do mesmo tipo, clsses pai com classes filhos 
+  - Só consegue convertwer coisas do mesmo tipo, clsses pai com classes filhos
+  - Polimorfismo: 
