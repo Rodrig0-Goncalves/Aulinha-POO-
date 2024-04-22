@@ -18,7 +18,7 @@ Ambiente de aprendizado
     Texto: Dados armazenados em registro de um único caracter (ASC II ou UNICODE);
 
   25.03
-- Static: Apenas um único para todas as instâncias, não precisa criar uma nova (new), sempre altera a que possui o "static" - esta na tabeça da classe;
+- Static: Apenas um único para todas as instâncias, não precisa criar uma nova (new), sempre altera a que possui o "static" - esta na tabela da classe;
 - Método de instância: Cada objeto possui sua própira "cópia" dos atributos previsto na classe, consegue acessar os métodos de static;
 
   01.04 
@@ -29,4 +29,12 @@ Ambiente de aprendizado
   08.04
   - "instanceOf" permite verificar se uma instância faz parte de outra
   - Só consegue convertwer coisas do mesmo tipo, clsses pai com classes filhos
-  - Polimorfismo: 
+  - Polimorfismo: usar uma classe de herança e alterar ela ao uso especifico;
+ 
+  22.04
+  - Lançar exeção: throw new ...
+  - Lançar uma exceção quando um dado é inserido errado, entrando fatorial de número negativo (0 é resposta);
+  - Para tratar: try/catch (tenta algo ou captura o erro e faz outra coisa);
+  - Error: situações irrecuperáveis (falta de memória, problema no hardware, arquivo corrompido);
+  - Exception: situações menos serveras (operação inválida, referência nula, indice de array inválido..);
+
