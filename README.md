@@ -27,11 +27,13 @@ Ambiente de aprendizado
   - Usando "exteds" para as demais classes que vão compartilhar de atributos semelhantes
  
   08.04
-  - "instanceOf" permite verificar se uma instância faz parte de outra
-  - Só consegue convertwer coisas do mesmo tipo, clsses pai com classes filhos
+  - "instanceOf" permite verificar se uma instância faz parte de outra;
+  - Só consegue convertwer coisas do mesmo tipo, clsses pai com classes filhos;
   - Polimorfismo: usar uma classe de herança e alterar ela ao uso especifico;
  
   22.04
+  - Map - Utiliza um item/objeto associado a outro objeto (mercadoria, código)/ (pessoas, corFav);
+  - Set - Elimina as repetições de uma lista;
   - Lançar exeção: throw new ...
   - Lançar uma exceção quando um dado é inserido errado, entrando fatorial de número negativo (0 é resposta);
   - Para tratar: try/catch (tenta algo ou captura o erro e faz outra coisa);
