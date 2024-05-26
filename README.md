@@ -32,11 +32,15 @@ Ambiente de aprendizado
   - Polimorfismo: usar uma classe de herança e alterar ela ao uso especifico;
  
   22.04
-  - Map - Utiliza um item/objeto associado a outro objeto (mercadoria, código)/ (pessoas, corFav);
-  - Set - Elimina as repetições de uma lista;
+  - Map - Utiliza um item/objeto associado a outro objeto (mercadoria, código)/ (pessoas, corFav) - procura e adiona objeto através de chaves;
+  - Set - Elimina as repetições de uma lista, ajuda no controle de repetições em uma lista;
   - Lançar exeção: throw new ...
   - Lançar uma exceção quando um dado é inserido errado, entrando fatorial de número negativo (0 é resposta);
   - Para tratar: try/catch (tenta algo ou captura o erro e faz outra coisa);
   - Error: situações irrecuperáveis (falta de memória, problema no hardware, arquivo corrompido);
   - Exception: situações menos serveras (operação inválida, referência nula, indice de array inválido..);
 
+- Tipo Genéricos:
+  - Pode ser usada para representar qualquer tipo de dado, usado após a declaração da classe com "<" e ">";
+  - Tipo <T> - tipo genérico de dados, podendo ser Integer, String... que serão manipulados corretamente na main durante a chamado do método;
+  - S, U - tipos adicionais que podem ser usados juntamente ao <T>;
